@@ -18,8 +18,8 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             name:'YY',
             role:'指导老师',
-            bio:'',
-            imageUrl:'',
+            bio:'期待科创中心越来越好！',
+            imageUrl:'image/3_zdls.jpeg',
             departmentId:'lead',
             year:'2025-2026届',
             contact:''
